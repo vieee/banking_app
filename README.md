@@ -1,6 +1,6 @@
-# banking_app
+# Banking Application
 
-## Deposit, Withdraw and Make your Bank, your best friend...
+## Deposit, Withdraw money with ease and Make your Bank, your best friend...
 
 * Users can organize, review, and merge your contacts, create personal mailing lists.
 * Quickly send messages to groups of frequent contacts, without entering their addresses individually.
@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/8.png" width="47%" /> 
 </p>
 
-
+<br><br>
 ## Connect to Postgresql Database
 
 Add Postgresql database connection details in `server/db/connect.js` file
@@ -32,10 +32,20 @@ Add Postgresql database connection details in `server/db/connect.js` file
   <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/db_2.png" width="47%" /> 
 </p>
 <p float="left">
-  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/db_3.png" width="94%" />
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/db_3.png" width="95%" />
 </p>
 
+<br><br>
+## Download Transaction Reports
 
+Click on the "Generate Report" button in the Summary section
+<br><br>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/fs_1.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/fs_2.png" width="47%" /> 
+</p>
+
+<br><br>
 ## Add database tables
 
 Execute sql scripts from `server/scripts.sql` file
