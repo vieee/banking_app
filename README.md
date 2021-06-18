@@ -59,7 +59,6 @@ Click on the "Generate Report" button in the Summary section
 
 
 ## Add database tables
-
 Execute sql scripts from `server/scripts.sql` file
 
 ## To run the project execute following commands in sequence
