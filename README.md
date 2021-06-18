@@ -46,6 +46,18 @@ Click on the "Generate Report" button in the Summary section
 </p>
 
 <br><br>
+## Proposed ATM Structural Setup
+
+<br><br>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/proposed_class_diagram.png" width="77%" />
+  <p>Class Diagram</p>
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/proposed_object_diagram.png" width="77%" />
+  <p>Object Diagram</p>
+</p>
+<br><br>
 ## Add database tables
 
 Execute sql scripts from `server/scripts.sql` file
