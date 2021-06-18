@@ -1,3 +1,28 @@
+# banking_app
+
+## Deposit, Withdraw and Make your Bank, your best friend...
+
+* Users can organize, review, and merge your contacts, create personal mailing lists.
+* Quickly send messages to groups of frequent contacts, without entering their addresses individually.
+<br><br>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/main/images/1.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/main/images/2.png" width="47%" /> 
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/main/images/3.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/main/images/4.png" width="47%" /> 
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/main/images/5.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/main/images/6.png" width="47%" /> 
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/main/images/7.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/main/images/8.png" width="47%" /> 
+</p>
+
+
 ## Connect to Postgresql Database
 
 Add Postgresql database connection details in `server/db/connect.js` file
