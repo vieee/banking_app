@@ -49,7 +49,7 @@ Click on the "Generate Report" button in the Summary section
 ## Proposed ATM Structural Setup
 <br>
 <p float="left">
-  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/class_diagram.png" width="95%" />
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/class_diagram.png" width="65%" />
   <p style="text-align: center">Class Diagram</p>
 </p>
 <p float="left">
