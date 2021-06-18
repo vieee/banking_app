@@ -32,7 +32,7 @@ Add Postgresql database connection details in `server/db/connect.js` file
   <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/db_2.png" width="47%" /> 
 </p>
 <p float="left">
-  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/db_3.png" width="99%" />
+  <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/db_3.png" width="94%" />
 </p>
 
 
