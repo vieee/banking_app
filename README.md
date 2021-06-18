@@ -39,7 +39,7 @@ Add Postgresql database connection details in `server/db/connect.js` file
 ## Download Transaction Reports
 
 Click on the "Generate Report" button in the Summary section
-<br><br>
+<br>
 <p float="left">
   <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/fs_1.png" width="47%" />
   <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/fs_2.png" width="47%" /> 
@@ -47,13 +47,12 @@ Click on the "Generate Report" button in the Summary section
 
 <br><br>
 ## Proposed ATM Structural Setup
-
-<br><br>
+<br>
 <p float="left">
   <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/proposed_class_diagram.png" width="77%" />
   <p>Class Diagram</p>
 </p>
-<p class="align: center" float="left">
+<p float="left">
   <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/proposed_object_diagram.png" width="77%" />
   <p>Object Diagram</p>
 </p>
