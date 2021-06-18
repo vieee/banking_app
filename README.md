@@ -53,7 +53,7 @@ Click on the "Generate Report" button in the Summary section
   <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/proposed_class_diagram.png" width="77%" />
   <p>Class Diagram</p>
 </p>
-<p float="left">
+<p class="align: center" float="left">
   <img src="https://raw.githubusercontent.com/vieee/banking_app/master/images/proposed_object_diagram.png" width="77%" />
   <p>Object Diagram</p>
 </p>
